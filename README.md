@@ -1,6 +1,7 @@
 Cranklin's Instagram Bot v.1.0
 ==============================
 Check www.cranklin.com for updates
+There is another one called [Followpie](https://github.com/oh-moore/followpie)
 
 Instagram bot that auto-likes photos by hashtag.  Written in Python using the Pycurl library.
 This bot gets you more likes and followers on your Instagram account.  
